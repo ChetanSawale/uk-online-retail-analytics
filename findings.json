@@ -1,0 +1,124 @@
+{
+  "raw_rows": 1067371,
+  "dropped_no_customer_id": 243007,
+  "dropped_duplicates": 11996,
+  "return_rows": 18688,
+  "dropped_nonpositive_qty_price": 71,
+  "clean_sales_rows": 793609,
+  "n_orders": 36969,
+  "n_customers": 5878,
+  "n_countries": 41,
+  "date_min": "2009-12-01",
+  "date_max": "2011-12-09",
+  "total_revenue": 17685460.64,
+  "avg_order_value": 478.39,
+  "median_order_value": 304.68,
+  "best_month": "2010-11",
+  "best_month_revenue": 1166460.02,
+  "top_products": [
+    {
+      "product": "REGENCY CAKESTAND 3 TIER",
+      "revenue": 285992.35,
+      "qty": 24858
+    },
+    {
+      "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "revenue": 251731.26,
+      "qty": 93520
+    },
+    {
+      "product": "PAPER CRAFT , LITTLE BIRDIE",
+      "revenue": 168469.6,
+      "qty": 80995
+    },
+    {
+      "product": "Manual",
+      "revenue": 151951.92,
+      "qty": 9501
+    },
+    {
+      "product": "JUMBO BAG RED RETROSPOT",
+      "revenue": 136684.79,
+      "qty": 75597
+    },
+    {
+      "product": "ASSORTED COLOUR BIRD ORNAMENT",
+      "revenue": 126704.06,
+      "qty": 79694
+    },
+    {
+      "product": "POSTAGE",
+      "revenue": 126563.04,
+      "qty": 5333
+    },
+    {
+      "product": "PARTY BUNTING",
+      "revenue": 103802.53,
+      "qty": 23591
+    },
+    {
+      "product": "MEDIUM CERAMIC TOP STORAGE JAR",
+      "revenue": 81416.73,
+      "qty": 77916
+    },
+    {
+      "product": "PAPER CHAIN KIT 50'S CHRISTMAS ",
+      "revenue": 79455.68,
+      "qty": 29430
+    }
+  ],
+  "top_countries": [
+    {
+      "country": "United Kingdom",
+      "revenue": 14666669.08
+    },
+    {
+      "country": "EIRE",
+      "revenue": 621304.32
+    },
+    {
+      "country": "Netherlands",
+      "revenue": 554230.69
+    },
+    {
+      "country": "Germany",
+      "revenue": 430703.79
+    },
+    {
+      "country": "France",
+      "revenue": 355059.38
+    },
+    {
+      "country": "Australia",
+      "revenue": 169900.61
+    },
+    {
+      "country": "Spain",
+      "revenue": 109127.21
+    },
+    {
+      "country": "Switzerland",
+      "revenue": 100365.34
+    }
+  ],
+  "uk_share_pct": 82.9,
+  "return_rows_abs_revenue": 1092067.63,
+  "return_rate_by_rows_pct": 2.3,
+  "rfm_segments": {
+    "Champions": 1719,
+    "Lost": 1301,
+    "Potential": 974,
+    "At Risk": 949,
+    "Loyal": 935
+  },
+  "champions_revenue": 14256478.02,
+  "avg_cohort_retention": {
+    "month_0": 1.0,
+    "month_1": 0.212,
+    "month_2": 0.219,
+    "month_3": 0.216,
+    "month_4": 0.205,
+    "month_5": 0.188,
+    "month_6": 0.178
+  }
+}
